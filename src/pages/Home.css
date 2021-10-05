@@ -1,0 +1,10 @@
+.main-container {
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.weather-detail {
+    margin-top: 2rem;
+}
