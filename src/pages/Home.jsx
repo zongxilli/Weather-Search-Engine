@@ -42,7 +42,7 @@ const Home = () => {
 			{data.current.condition && (
 				<Container className='main-container'>
 					<Navbar.Brand style={{ textAlign: 'center' }}>
-						<h1>Weather For Your City :)</h1>
+						<h1>Weather Report :)</h1>
 					</Navbar.Brand>
 					<Form onSubmit={(e) => onSubmitHandler(e)}>
 						<FormControl
