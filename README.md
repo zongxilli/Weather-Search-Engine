@@ -1,6 +1,6 @@
 ### Answers to questions 1 - 4 is in Question1-4.js file
 
-### cd into weather-app
+### cd into folder
 ### run `npm install` or `yarn install` to install dependencies
 ### run `npm start` or `yarn start` to start the app
 
